@@ -54,7 +54,7 @@
 
     <!--CONTENT INJECTION POINT-->
 
-    <section id="content">    
+    <section id="content" class="row">    
      {squarespace.main-content}
     </section>
 
