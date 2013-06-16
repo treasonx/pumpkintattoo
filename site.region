@@ -14,6 +14,8 @@
 
     <squarespace:script src="jquery.js" combo="false" />
     <squarespace:script src="custom.modernizr.js" combo="false" />
+    <squarespace:script src="foundation.js" combo="false" />
+    <squarespace:script src="foundation.topbar.js" combo="false" />
   
   </head>
 
