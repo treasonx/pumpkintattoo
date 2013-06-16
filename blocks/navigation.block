@@ -1,4 +1,4 @@
-<nav id="main-navigation" class="top-bar">
+<nav id="main-navigation" class="top-bar" data-content-field="navigation-mainNav">
   <ul class="title-area">
     <!-- Title Area -->
     <li class="name">
@@ -81,7 +81,7 @@
 
 
 <!--
-<nav id="main-navigation" data-content-field="navigation-mainNav">
+<nav id="main-navigation" >
   <ul>
   </ul>
 </nav>

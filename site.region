@@ -12,7 +12,10 @@
 
     {squarespace-headers}
 
-    <squarespace:script src="site.js" combo="true" />
+    <squarespace:script src="jquery.js" combo="true" />
+    <squarespace:script src="custom.modernizr.js" combo="true" />
+    <squarespace:script src="foundation/foundation.js" combo="true" />
+    <squarespace:script src="foundation/foundation.topbar.js" combo="true" />
   
   </head>
 
@@ -43,8 +46,9 @@
       {.end}
 
       <!--MAIN NAVIGATION-->
-
-      <squarespace:navigation navigationId="mainNav" template="navigation" />
+      <div class="contain-to-grid sticky">
+        <squarespace:navigation navigationId="mainNav" template="navigation" />
+      </div>
 
     </header>
 
