@@ -12,10 +12,10 @@
 
     {squarespace-headers}
 
-    <squarespace:script src="jquery.js" combo="false" />
-    <squarespace:script src="custom.modernizr.js" combo="false" />
-    <squarespace:script src="f.js" combo="false" />
-    <squarespace:script src="topbar.js" combo="false" />
+    <squarespace:script src="jquery.js" combo="true" />
+    <squarespace:script src="custom.modernizr.js" combo="true" />
+    <squarespace:script src="f.js" combo="true" />
+    <squarespace:script src="topbar.js" combo="true" />
   
   </head>
 
