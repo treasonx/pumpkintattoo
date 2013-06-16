@@ -1,0 +1,20 @@
+{
+  "name": "pumpkintattoo",
+  "version": "0.0.0",
+  "description": "pumpkin tattoo site",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://mary-cahill.dev.squarespace.com/template.git"
+  },
+  "author": "James Morrin",
+  "license": "BSD",
+  "gitHead": "305e9dac30ae4de0786c9d0f80c7e95030e93b47",
+  "devDependencies": {
+    "grunt": "~0.4.1",
+    "grunt-sass": "~0.6.0"
+  }
+}
